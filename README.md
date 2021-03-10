@@ -1,6 +1,6 @@
 # The_VBA_Of_Wall_Street
 
-Sub testinghw()
+Sub testing()
 
 ' Create a script that will loop through all the stocks for one year and output the following information.
 
